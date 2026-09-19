@@ -2,6 +2,8 @@
 
 AegisRAG is a local Flask research application for exploring the question: **Can security-aware RAG reduce prompt injection while preserving answer quality?** It preserves the existing dark research-lab UI while adding a Python demonstration backend.
 
+https://aegis-56c9ictdk-mrunalainexus-projects.vercel.app/
+
 ## Research scope
 
 The project compares Baseline RAG, Guarded RAG, and the proposed AegisRAG security-aware pipeline. It evaluates attack success, prompt-injection detection, data leakage, response quality, and a transparent composite score.
